@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-06-12T14:03:56.718+02:00"}
+{"dg-publish":true,"permalink":"/1-digital-garden/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-06-12T14:04:52.948+02:00"}
 ---
 
 # Welcome to the Lounge 🥃
@@ -10,7 +10,7 @@ Howdy! 👋
 
 Welcome to ***Loran Lounge*** - my blog / digital garden / archive of all things me. My name is Aaron Lowry, I'm an Irish writer, dungeon master, aspiring creative director and all round media enthusiast.
 
-![me looking all moody reading a book.jpg| 250](/img/user/Images/me%20looking%20all%20moody%20reading%20a%20book.jpg) ![IMG_20240306_194722_365.jpg| 250](/img/user/Images/IMG_20240306_194722_365.jpg)
+![me looking all moody reading a book.jpg| 250](/img/user/Images/me%20looking%20all%20moody%20reading%20a%20book.jpg) ![IMG_20240306_194722_365.jpg| 350](/img/user/Images/IMG_20240306_194722_365.jpg)
 
 Me btw ^ 👋
 # [[1 - Digital Garden/What is Loran Lounge❓\|What is Loran Lounge❓]]
