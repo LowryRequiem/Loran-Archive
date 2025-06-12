@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/what-is-loran-lounge/","created":"2025-06-10T00:41:44.975+02:00","updated":"2025-06-12T13:26:09.336+02:00"}
+{"dg-publish":true,"permalink":"/1-digital-garden/what-is-loran-lounge/","created":"2025-06-10T00:41:44.975+02:00","updated":"2025-06-12T14:06:25.463+02:00"}
 ---
+
+# What is Loran Lounge ❓
+
+![Pasted image 20250612140602.png](/img/user/Pasted%20image%2020250612140602.png)
 
 Last year, I decided to start writing a blog, the original Loran Lounge. It was a creative project to allow myself a place to talk about some of my favourite pieces of media, in a form that didn't demand as much dedication as creating Youtube video essays, or managing a social media page with short form content.
 
