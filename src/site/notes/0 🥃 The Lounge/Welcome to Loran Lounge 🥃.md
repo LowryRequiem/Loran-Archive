@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-06-14T00:11:33.138+02:00"}
+{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-06-17T01:17:50.289+02:00"}
 ---
 
 # 🥃 Welcome to the Lounge
@@ -17,7 +17,7 @@ Take your time, have a lamp, and come back at any time.
 
 - [[✒️ Media and Narrative Essays\|✒️ Media and Narrative Essays]]
 	- A mixture of personal and academic essays that explore the narratives of games and media that entrance and excite me.
-- [[🎲 Rivelium D&D\|🎲 Rivelium D&D]]
+- [[2 🎲 Rivelium D&D Archive/🎲 Rivelium D&D\|🎲 Rivelium D&D]]
 	- My ongoing original D&D campaign of over six years - set in my home crafted setting of Rivelium.
 - [[🎮 Reviews and Playthroughs\|🎮 Reviews and Playthroughs]]
 	- My chronicled engagements, thoughts, and reflections on games, film, music, and other media.
@@ -45,4 +45,4 @@ I currently don't actively use any socials, but will leave my Linktree, and any 
 - - - - 
 ## ❓More About the Lounge
 - - - - 
-# ☕Have Yourself a Good One, and Come Back Soon
+# ☕Have a Good One, and Come Back Soon
