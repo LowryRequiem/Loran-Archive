@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/rivelium-d-and-d/","created":"2025-06-17T00:17:31.744+02:00","updated":"2025-06-17T01:17:28.920+02:00"}
+{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/rivelium-d-and-d/","created":"2025-06-17T00:17:31.744+02:00","updated":"2025-06-17T01:19:26.677+02:00"}
 ---
 
 # 🛡️ Welcome to Rivelium
@@ -42,7 +42,7 @@ Looking for more context or the full story? Explore the past campaigns ran in th
 
 ## ❓Want to Know more?
 
-Join the Loran Lounge discord for updates, or feel free to reach out for discussions!
+Join the Loran Lounge discord for updates, or feel free to reach out for discussions, or questions about how I run my campaigns!
 
 ## 🌙 Let the Age of Anarchy Unfold
 
