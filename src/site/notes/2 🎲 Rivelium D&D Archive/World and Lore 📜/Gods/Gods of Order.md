@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/world-and-lore/gods/gods-of-order/","created":"2025-06-21T13:14:55.539+02:00","updated":"2025-06-21T14:12:56.174+02:00"}
+{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/world-and-lore/gods/gods-of-order/","created":"2025-06-21T13:14:55.539+02:00","updated":"2025-06-21T14:14:56.451+02:00"}
 ---
 
 # Pantheon Overview: Gods of Order
@@ -12,7 +12,7 @@ During the Age of Conception, the Primeval Gods were created by the Primordial C
 - ⚖️ **[[2 🎲 Rivelium D&D Archive/World and Lore 📜/Gods/Yore\|Yore]]**: Primeval God of Justice
 	- Yore is the leader and judicator of the pantheon, guiding his fellow Gods and respective followers, and ensuring that order is kept, and ruin is avoided.
 - 💭 **Lyma**: Primeval God of Wonder
-	- Lyma is both the strategist and lead creator of the pantheon, child-like in nature, their wonderings have spawned cosmos of creation. However, his thoughts often run off and spawn problems for the rest of the pantheon to deal with - oftentimes creating entire new Gods themselves that at times have become allies, and other times adversaries.
+	- Lyma is both the strategist and lead creator of the pantheon, child-like in nature, their wonderings have spawned cosmos of creation. However, their thoughts often run off and spawn problems for the rest of the pantheon to deal with - oftentimes creating entire new Gods themselves that at times have become allies, and other times adversaries.
 - 🌌 **Zeya**: Primeval God of Essence
 	- Energy flows from Zeya's form like a fountain, and is responsible for the vast magic that the pantheon has been able to weave and utilise. Likewise, the Pantheon of Reign have also at times siphoned this energy. Zeya's very being is an incomprehensible force of equal creation and devastation - to no fault of her own.
 - 🪨 **Leor**: Primeval God of Materiality
