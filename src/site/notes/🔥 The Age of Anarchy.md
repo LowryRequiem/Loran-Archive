@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-age-of-anarchy/","created":"2025-06-21T06:24:18.994+02:00","updated":"2025-06-21T09:54:00.624+02:00"}
+{"dg-publish":true,"permalink":"/the-age-of-anarchy/","created":"2025-06-21T06:24:18.994+02:00","updated":"2025-06-21T10:01:44.052+02:00"}
 ---
 
 # 📜 Story Overview: The Age of Anarchy (723 YR)
@@ -41,6 +41,9 @@ To further instil chaos, the shattering of Alyss completely severed the Gods' on
 ## 🔥 The Dawn of the Age of Anarchy (718-720 YR)
 
 The first two years followed the assassination of King Goodbrand saw significant shifts in the continent of Rivelium, which would lead the realm to being in the state it is in during the events of the current narrative and campaigns.
+
+![MAP OF RIVELIUM AOA.jpg](/img/user/5%20%F0%9F%93%A6%20The%20Back%20Store/Images/MAP%20OF%20RIVELIUM%20AOA.jpg)
+> Rivelium world map, made in Inkarnate
 ### 🏰 Vanalor's Fall of Order
 
 Worst affected by the initial ushering of anarchy was the realms prior capital - Vanalor. Swept by chaos and conflict amidst uncertainties of who was behind King Goodbrand's assassination, the city went through a period of anarchy as many inhabitants fled to their home cities, or sided internally with different factions and guilds. 
