@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/world-and-lore/the-age-of-anarchy/","created":"2025-06-21T06:24:18.994+02:00","updated":"2025-06-21T10:15:06.632+02:00"}
+{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/world-and-lore/the-age-of-anarchy/","created":"2025-06-21T06:24:18.994+02:00","updated":"2025-06-21T11:44:44.505+02:00"}
 ---
 
 # 📜 Story Overview: The Age of Anarchy (723 YR)
@@ -20,7 +20,7 @@ The Age of Anarchy began after the fall of the Age of Good, in a moment which br
 
 Following the tyrannical reign of Cyrus Lavandra and the Age of Archaim, the Age of Good was a prosperous period where King Ingalthur Goodbrand led the realm out of constant conflict, and into an era of collaboration and order. 
 
-Descendant and worshipper of Yore -  the God of Justice, and leader of the Gods of Order, King Goodbrand rekindled Yore's power with the land and used it to usher in faithful guilds and to develop relations with the continent's many cities.
+Descendant and worshipper of [[2 🎲 Rivelium D&D Archive/World and Lore 📜/Gods/Yore\|Yore]] -  the God of Justice, and leader of the Gods of Order, King Goodbrand rekindled Yore's power with the land and used it to usher in faithful guilds and to develop relations with the continent's many cities.
 
 Unlike previous human rulers, King Goodbrand was not opposed to the practice of and scholarly inquiry into new archaic magics, and resultantly established a society which for the first time encouraged the practice of faith, and the study of the arcane.
 

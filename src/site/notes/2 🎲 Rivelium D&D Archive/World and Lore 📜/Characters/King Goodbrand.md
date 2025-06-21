@@ -6,7 +6,7 @@
 
 > "For a time, this realm was lost trying to be great. Now, it is about time we be good."
 
-![King Goodbrand screenshot.png| 450](/img/user/King%20Goodbrand%20screenshot.png)
+![King Goodbrand screenshot.png| 450](/img/user/5%20%F0%9F%93%A6%20The%20Back%20Store/Images/King%20Goodbrand%20screenshot.png)
 ## 📃 Summary
 
 Born in 641 YR, Ingalthur was the oldest son of the Goodbrand family and king of Vanalor and Rivelium during the Age of Good. The Goodbrands were well off farmers who owned land in the northern regions of Vanalor. Ingalthur was raised on the farms but joined the Yoresmen Guild of the Faith once he came of age. Here, he trained as a paladin of Yore, and gained the favour of many for his charisma and kind heart.
