@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/world-and-lore/cities/vanalor/","created":"2025-06-21T12:33:54.754+02:00","updated":"2025-06-21T13:11:23.813+02:00"}
+{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/world-and-lore/cities/vanalor/","created":"2025-06-21T12:33:54.754+02:00","updated":"2025-06-21T13:13:36.672+02:00"}
 ---
 
 # City Overview: Vanalor
@@ -11,7 +11,7 @@
 Once known as Alyss, Vanalor is the frozen capital of Rivelium, located at its most northern region, known for its prominent worship of the faith, its history of royal houses and lineages, and its frozen agricultural landscapes. Vanalor is one of the most historically significant cities in Rivelium, and up until the Fall of Alyss, was home to the throne that mystically bound the Gods to the mortal realm.
 ### 🧭 Overview
 
-**Society**: Estimated population; 270,000. Human majority, followed by Elves, however has grown home to a variety of races.
+**Society**: Estimated population; 270,000. Human majority, followed by Elves, however has grown to home a variety of races.
 **Government**: Once ruled by whoever sat the throne of Alyss, now ran by a preliminary council as the city prepares for elections.
 **Trade**: Mostly agriculture: crops and livestock that flourish in cold climates. Also an adventuring hub.
 **Faith**: Notable worshippers of Yore, home to the Yoresmen Guild of the Faith.
