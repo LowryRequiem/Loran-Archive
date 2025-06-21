@@ -15,7 +15,7 @@ Spanning multiple campaigns both past and present, the continent of Rivelium is 
 
 To settle in and catch up on the current state of the realm, have a read below of the events which have led to the Age of Anarchy, the period in Rivelium history that the current campaigns take place in. 
 
-- [[🔥 The Age of Anarchy\|🔥 The Age of Anarchy]]
+- [[2 🎲 Rivelium D&D Archive/World and Lore 📜/🔥 The Age of Anarchy\|🔥 The Age of Anarchy]]
 	- After the assassination of King Goodbrand shattered the ancient pact vowed between the mortal inhabitants of Rivelium and their ancestral Gods, chaos ensued. With the Gods sealed away and the throne left vacant, the continent has spiralled into anarchy, its fate hanging in the balance.
 - [[🧭 The World of Rivelium\|🧭 The World of Rivelium]]
 	- Discover the world of Rivelium; its major cities, factions, Gods, and neighbouring realms.
