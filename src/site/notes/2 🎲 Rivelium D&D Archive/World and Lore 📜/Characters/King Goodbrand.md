@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/world-and-lore/characters/king-goodbrand/","created":"2025-06-21T10:15:06.621+02:00","updated":"2025-06-21T11:21:11.182+02:00"}
+{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/world-and-lore/characters/king-goodbrand/","created":"2025-06-21T10:15:06.621+02:00","updated":"2025-06-21T12:25:39.072+02:00"}
 ---
 
 # Character Profile: King Ingalthur Goodbrand
@@ -9,7 +9,7 @@
 ![King Goodbrand screenshot.png| 450](/img/user/5%20%F0%9F%93%A6%20The%20Back%20Store/Images/King%20Goodbrand%20screenshot.png)
 ## 📃 Summary
 
-Born in 641 YR, Ingalthur was the oldest son of the Goodbrand family and king of Vanalor and Rivelium during the Age of Good. The Goodbrands were well off farmers who owned land in the northern regions of Vanalor. Ingalthur was raised on the farms but joined the Yoresmen Guild of the Faith once he came of age. Here, he trained as a paladin of Yore, and gained the favour of many for his charisma and kind heart.
+Born in 641 YR, Ingalthur was the oldest son of the Goodbrand family and king of Vanalor and Rivelium during the Age of Good. The Goodbrands were well off farmers who owned land in the northern regions of Vanalor. Ingalthur was raised on the farms but joined the Yoresmen Guild of the Faith once he came of age. Here, he trained as a paladin of [[2 🎲 Rivelium D&D Archive/World and Lore 📜/Gods/Yore\|Yore]], and gained the favour of many for his charisma and kind heart.
 
 His legacy came to be during the Threefold Rebellion, where after the head paladin of the guild, Arek Stormwar (who Ingalthur was squire of at the time) fell, Ingalthur was promoted to stand in his place.
 
