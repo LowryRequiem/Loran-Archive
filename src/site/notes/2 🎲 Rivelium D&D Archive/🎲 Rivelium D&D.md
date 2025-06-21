@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/rivelium-d-and-d/","created":"2025-06-17T00:17:31.744+02:00","updated":"2025-06-17T01:19:26.677+02:00"}
+{"dg-publish":true,"permalink":"/2-rivelium-d-and-d-archive/rivelium-d-and-d/","created":"2025-06-17T00:17:31.744+02:00","updated":"2025-06-21T10:01:33.429+02:00"}
 ---
 
 # 🛡️ Welcome to Rivelium
