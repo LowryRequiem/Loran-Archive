@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-07-03T13:50:50.342+02:00"}
+{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-07-03T14:06:30.902+02:00"}
 ---
 
 # 🥃 Welcome to the Lounge
@@ -33,6 +33,9 @@ Take your time, have a lamp, and come back at any time.
 ## 🎷Now Playing in the Lounge
 
 For your enjoyment, and for the sake of vibes, a curated Spotify playlist tailored just for the lounge.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5yGYQHlsVjnizFt0j9L0Mv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - - - - 
 ## 💬 Here for the Chats?
 
