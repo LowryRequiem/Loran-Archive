@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-the-lounge/media-and-narrative-essays/","created":"2025-07-03T12:16:12.792+02:00","updated":"2025-07-03T13:18:34.057+02:00"}
+{"dg-publish":true,"permalink":"/0-the-lounge/media-and-narrative-essays/","created":"2025-07-03T12:16:12.792+02:00","updated":"2025-07-03T13:22:57.711+02:00"}
 ---
 
 # ✒️ Have a Read of my Media Essays!
@@ -25,3 +25,7 @@ Hopefully you will find some resonance with them, and through my writings, feel 
 - [[1 ✒️Essays/Personal ✏️/🧗 Mechanics that Explore the Narrative - How Jusant Highlights Themes of Naivety and Ignorance through Liberating World and Mechanical Design\|🧗 Mechanics that Explore the Narrative - How Jusant Highlights Themes of Naivety and Ignorance through Liberating World and Mechanical Design]]
 
 - [[1 ✒️Essays/Personal ✏️/⌛ Altruism in Temporal Space - How Tenet and Undertale Highlight the Fragility of the Human Experience Using Implied External Narratives\|⌛ Altruism in Temporal Space - How Tenet and Undertale Highlight the Fragility of the Human Experience Using Implied External Narratives]]
+
+- [[1 ✒️Essays/Personal ✏️/🌹 Player Intuition as a Catalyst for Change - How Decarnation and Slay the Princess Utilize Player Perception to Empower Agency within their Narratives\|🌹 Player Intuition as a Catalyst for Change - How Decarnation and Slay the Princess Utilize Player Perception to Empower Agency within their Narratives]]
+
+- [[1 ✒️Essays/Personal ✏️/📹 Horrors of Virtual Ignorance - How the Blair Witch Project and House of Leaves Forego Medium Assumptions to Create Unfamiliar Terror\|📹 Horrors of Virtual Ignorance - How the Blair Witch Project and House of Leaves Forego Medium Assumptions to Create Unfamiliar Terror]]
