@@ -1,10 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-07-03T12:49:04.558+02:00"}
+{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-07-03T13:50:50.342+02:00"}
 ---
 
 # 🥃 Welcome to the Lounge
 
 Howdy! 👋 Welcome to my cosy spot for essays, lore, and creative wanderings.
+
+###### ❕ Newest Lounge Updates
+
+I've updated the [[0 🥃 The Lounge/✒️ Media and Narrative Essays\|✒️ Media and Narrative Essays]] page, which now contains a selection of essays I've wrote for the first year of my research masters, as well as a collection of essays from the previous Loran Lounge blog site!
+
+I've also been updating [[0 🥃 The Lounge/🎲 Rivelium D&D\|🎲 Rivelium D&D]], which now has some pages on the worlds lore.
 
 ![coaster-book-whiskey-dice-arrangemnet-edit 1.jpg](/img/user/99%20%F0%9F%93%A6%20The%20Back%20Store/Images/coaster-book-whiskey-dice-arrangemnet-edit%201.jpg)
 > Shot by @cortzphotography on Instagram.

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-essays/personal/altruism-in-temporal-space-how-tenet-and-undertale-highlight-the-fragility-of-the-human-experience-using-implied-external-narratives/","created":"2025-07-03T13:16:12.880+02:00","updated":"2025-07-03T13:16:46.936+02:00"}
+{"dg-publish":true,"permalink":"/1-essays/personal/altruism-in-temporal-space-how-tenet-and-undertale-highlight-the-fragility-of-the-human-experience-using-implied-external-narratives/","created":"2025-07-03T13:16:12.880+02:00","updated":"2025-07-03T13:48:05.810+02:00"}
 ---
 
 - - - 
-Altruism in Temporal Space - How Tenet and Undertale Highlight the Fragility of the Human Experience Using Implied External Narratives
+**Altruism in Temporal Space - How Tenet and Undertale Highlight the Fragility of the Human Experience Using Implied External Narratives**
 - - - - 
 
 **Tenet** was a movie which soared under my radar for some time. A strange occurrence when you consider my fascination with **Christopher Nolan**, but regardless, it took me some time to get around to properly viewing **Tenet**. Attempt 1 was a complete failure, deciding to watch the film in the midnight hours during my first year of college and realizing quite quickly, alongside my housemates, that no one was in a coherent state to try and comprehend the film. Attempt 2 was slightly more successful, but my consciousness was once again kidnapped and tucked away behind the plane of dreams (I passed out asleep) before the film could even get to _the point_ of the film. For many people, _the point_ of the film is still lost amidst the science fiction jargon which litters the script and set pieces, but it was upon Attempt 3 that I truly got a grasp for what this film was about.

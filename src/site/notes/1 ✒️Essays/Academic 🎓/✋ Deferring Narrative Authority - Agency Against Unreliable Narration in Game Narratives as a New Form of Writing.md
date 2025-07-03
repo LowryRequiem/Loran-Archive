@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/1-essays/academic/deferring-narrative-authority-agency-against-unreliable-narration-in-game-narratives-as-a-new-form-of-writing/","created":"2025-07-03T13:34:20.042+02:00","updated":"2025-07-03T13:36:34.744+02:00"}
+{"dg-publish":true,"permalink":"/1-essays/academic/deferring-narrative-authority-agency-against-unreliable-narration-in-game-narratives-as-a-new-form-of-writing/","created":"2025-07-03T13:34:20.042+02:00","updated":"2025-07-03T13:47:42.243+02:00"}
 ---
 
 > One of the first papers I had to write as part of my research masters. We were becoming familiarised with a lot of core theorists at the time, and I thought it would be interesting to take some concepts from Derrida and apply them to games. There was a lot more I wanted to say here, but didn't have the word count or the time then to say it. Will probably return to some of the concepts explored here in future papers.
 
 - - - 
-**Deferring Narrative Authority | Agency Against Unreliable Narration in Game Narratives as a New Form of Writing
+**Deferring Narrative Authority | Agency Against Unreliable Narration in Game Narratives as a New Form of Writing**
 - - - 
 
 Through continued emerging ruptures within the medium of game narratives, player agency has become a core device which has progressively challenged traditional narrative structures in contemporary texts. Through the usage of unreliable narrators, and the agency allocated to players to defer against them, certain texts have allowed a new approach to consuming narrative structures that enable meaning to be derived from their own interactions and responses to the narrative, rather than one predetermined by the text’s author. This emerging mode of player agency is a rupture within the genre that has naturally developed alongside the medium itself, standing as a core element of what defines game narratives as texts while differentiating them from comparable mediums such as film. This distinction of the medium is highlighted by Habel and Kooyman, who compare the ‘single sitting’, ‘semi-public’ consumption of horror films to the ‘uniquely participative dimension’ to agency based horror games (4). This participative dimension has allowed for narratives of increasingly varied scales as technical limitations of games as a medium have expanded. This has led to narratives becoming more expected from the medium, with player agency becoming an integral aspect of this. Due to this, player agency as a rupture has developed alongside the limitations of the medium, and as such, agency in many cases has become tied to the narrative design of the texts themselves, as I will explore in this essay.
