@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-the-lounge/media-and-narrative-essays/","created":"2025-07-03T12:16:12.792+02:00","updated":"2025-07-03T13:16:12.893+02:00"}
+{"dg-publish":true,"permalink":"/0-the-lounge/media-and-narrative-essays/","created":"2025-07-03T12:16:12.792+02:00","updated":"2025-07-03T13:18:34.057+02:00"}
 ---
 
 # ✒️ Have a Read of my Media Essays!
@@ -21,5 +21,7 @@ Hopefully you will find some resonance with them, and through my writings, feel 
 ### ✏️ Personal Essays
 
 - [[1 ✒️Essays/Personal ✏️/⛵ Curiosity Killed the Sailor - How Dredge Explores Humanity's Need for Companionship\|⛵ Curiosity Killed the Sailor - How Dredge Explores Humanity's Need for Companionship]] 
+
 - [[1 ✒️Essays/Personal ✏️/🧗 Mechanics that Explore the Narrative - How Jusant Highlights Themes of Naivety and Ignorance through Liberating World and Mechanical Design\|🧗 Mechanics that Explore the Narrative - How Jusant Highlights Themes of Naivety and Ignorance through Liberating World and Mechanical Design]]
+
 - [[1 ✒️Essays/Personal ✏️/⌛ Altruism in Temporal Space - How Tenet and Undertale Highlight the Fragility of the Human Experience Using Implied External Narratives\|⌛ Altruism in Temporal Space - How Tenet and Undertale Highlight the Fragility of the Human Experience Using Implied External Narratives]]
