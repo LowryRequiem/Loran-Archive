@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-essays/academic/weathering-the-rain-world-emergent-subjectivity-and-transcorporeal-entanglements-in-rain-world-s-playable-ecology/","created":"2025-07-03T12:35:31.404+02:00","updated":"2025-07-03T12:39:37.297+02:00"}
+{"dg-publish":true,"permalink":"/1-essays/academic/weathering-the-rain-world-emergent-subjectivity-and-transcorporeal-entanglements-in-rain-world-s-playable-ecology/","created":"2025-07-03T12:35:31.404+02:00","updated":"2025-07-03T12:41:50.451+02:00"}
 ---
 
 > I wrote this paper for a posthumanism class as part of my research masters. It's about Rain World, a fantastic survival indie game which I'd highly recommend you play blind if you are able to. I found the experience of playing Rain World to be an incredibly unique one, and felt it related greatly to many of the themes covered in said posthumanism class. This was my first time writing an essay centered on posthuman discourse, but I was quite happy with how it turned out.
 
-# **Weathering the Rain World | Emergent Subjectivity and Transcorporeal Entanglements in *Rain World*’s Playable Ecology**
+**Weathering the Rain World | Emergent Subjectivity and Transcorporeal Entanglements in *Rain World*’s Playable Ecology**
 
 ---
 
