@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-the-lounge/media-and-narrative-essays/","created":"2025-07-03T12:16:12.792+02:00","updated":"2025-07-03T13:22:57.711+02:00"}
+{"dg-publish":true,"permalink":"/0-the-lounge/media-and-narrative-essays/","created":"2025-07-03T12:16:12.792+02:00","updated":"2025-07-03T13:40:25.605+02:00"}
 ---
 
 # ✒️ Have a Read of my Media Essays!
@@ -17,6 +17,10 @@ Hopefully you will find some resonance with them, and through my writings, feel 
 ### 🎓 Academic Essays 
 
 - [[1 ✒️Essays/Academic 🎓/🌧️ Weathering the Rain World - Emergent Subjectivity and Transcorporeal Entanglements in Rain World's Playable Ecology\|🌧️ Weathering the Rain World - Emergent Subjectivity and Transcorporeal Entanglements in Rain World's Playable Ecology]]
+
+- [[1 ✒️Essays/Academic 🎓/✋ Deferring Narrative Authority - Agency Against Unreliable Narration in Game Narratives as a New Form of Writing\|✋ Deferring Narrative Authority - Agency Against Unreliable Narration in Game Narratives as a New Form of Writing]]
+
+- [[1 ✒️Essays/Academic 🎓/📺 Perpetuating Digital Landscapes - The Dissolution of Information Through the Framing of Digital Landscapes in Late 90s Media\|📺 Perpetuating Digital Landscapes - The Dissolution of Information Through the Framing of Digital Landscapes in Late 90s Media]]
 
 ### ✏️ Personal Essays
 
