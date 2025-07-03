@@ -4,7 +4,7 @@
 
 # City Overview: Vanalor
 
-![Pasted image 20250621123932.png](/img/user/5%20%F0%9F%93%A6%20The%20Back%20Store/Images/Pasted%20image%2020250621123932.png)
+![Pasted image 20250621123932.png](/img/user/99%20%F0%9F%93%A6%20The%20Back%20Store/Images/Pasted%20image%2020250621123932.png)
 > Art, 'Frozen Hometown' by flaviobolla on DeviantArt
 ## 📃 Summary
 

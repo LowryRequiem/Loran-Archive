@@ -8,7 +8,7 @@ Welcome to Rivelium - my homegrown D&D world and campaign setting over six years
 
 Spanning multiple campaigns both past and present, the continent of Rivelium is packed with intrigue; political plots, ancient mysteries, and an evolving cast of characters - You are invited to explore its story through the lore archive below - or dive into the story as in unfolds through our current weekly campaign: The Pullovers Paradox, updated right here as it plays out.
 
-![MAP OF RIVELIUM AOA.jpg](/img/user/5%20%F0%9F%93%A6%20The%20Back%20Store/Images/MAP%20OF%20RIVELIUM%20AOA.jpg)
+![MAP OF RIVELIUM AOA.jpg](/img/user/99%20%F0%9F%93%A6%20The%20Back%20Store/Images/MAP%20OF%20RIVELIUM%20AOA.jpg)
 > Rivelium world map, created in Inkarnate
 
 ## 🔥 The Story So Far - Age of Anarchy

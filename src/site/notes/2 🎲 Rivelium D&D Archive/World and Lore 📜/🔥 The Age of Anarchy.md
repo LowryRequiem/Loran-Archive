@@ -42,7 +42,7 @@ To further instil chaos, the shattering of Alyss completely severed the Gods' on
 
 The first two years followed the assassination of King Goodbrand saw significant shifts in the continent of Rivelium, which would lead the realm to being in the state it is in during the events of the current narrative and campaigns.
 
-![MAP OF RIVELIUM AOA.jpg](/img/user/5%20%F0%9F%93%A6%20The%20Back%20Store/Images/MAP%20OF%20RIVELIUM%20AOA.jpg)
+![MAP OF RIVELIUM AOA.jpg](/img/user/99%20%F0%9F%93%A6%20The%20Back%20Store/Images/MAP%20OF%20RIVELIUM%20AOA.jpg)
 > Rivelium world map, made in Inkarnate
 ### 🏰 Vanalor's Fall of Order
 

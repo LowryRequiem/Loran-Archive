@@ -6,7 +6,7 @@
 
 > "When the Primordial Concept of Fate acknowledged our being, he ordained us as the harbingers of his fate. For fate to not lead to ruin, there must be order. For order? There must be justice."
 
-![Yore screenshot.png| 450](/img/user/5%20%F0%9F%93%A6%20The%20Back%20Store/Images/Yore%20screenshot.png)
+![Yore screenshot.png| 450](/img/user/99%20%F0%9F%93%A6%20The%20Back%20Store/Images/Yore%20screenshot.png)
 ## 📃 Summary
 
 Yore was among the first Primeval Gods to be created by the Primordial Concept of Fate. Within him, the Primordial buried the will to guide and weave fate itself, combating its very flux through the imposition of justice and order. 
