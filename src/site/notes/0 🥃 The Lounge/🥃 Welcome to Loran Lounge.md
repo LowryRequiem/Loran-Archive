@@ -1,19 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-07-03T14:06:30.902+02:00"}
+{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-07-05T08:16:13.981+02:00"}
 ---
 
 # 🥃 Welcome to the Lounge
 
 Howdy! 👋 Welcome to my cosy spot for essays, lore, and creative wanderings.
 
-###### ❕ Newest Lounge Updates
-
-I've updated the [[0 🥃 The Lounge/✒️ Media and Narrative Essays\|✒️ Media and Narrative Essays]] page, which now contains a selection of essays I've wrote for the first year of my research masters, as well as a collection of essays from the previous Loran Lounge blog site!
-
-I've also been updating [[0 🥃 The Lounge/🎲 Rivelium D&D\|🎲 Rivelium D&D]], which now has some pages on the worlds lore.
-
 ![coaster-book-whiskey-dice-arrangemnet-edit 1.jpg](/img/user/99%20%F0%9F%93%A6%20The%20Back%20Store/Images/coaster-book-whiskey-dice-arrangemnet-edit%201.jpg)
+
 > Shot by @cortzphotography on Instagram.
+
 - - - - - 
 ## ☕ House Specials 
 
@@ -27,7 +23,7 @@ Take your time, have a lamp, and come back at any time.
 	- My ongoing original D&D campaign of over six years - set in my home crafted setting of Rivelium.
 - [[🎮 Reviews and Playthroughs\|🎮 Reviews and Playthroughs]]
 	- My chronicled engagements, thoughts, and reflections on games, film, music, and other media.
-- [[🥃 Blogs, Updates and Side Quests\|🥃 Blogs, Updates and Side Quests]]
+- [[0 🥃 The Lounge/🥃 Blogs, Updates and Side Quests\|🥃 Blogs, Updates and Side Quests]]
 	- Everything in-between. A general collection of my thoughts, ponderings, and endeavors.
 - - - - 
 ## 🎷Now Playing in the Lounge
@@ -40,18 +36,23 @@ For your enjoyment, and for the sake of vibes, a curated Spotify playlist tailor
 ## 💬 Here for the Chats?
 
 For anyone interested in reaching out, be it to share thoughts, ideas, or simply just for a chat; feel free to join the lounge discord server.
+
 - - - - 
 ## 🍀About the Owner
 
 That'd be me! My name is Aaron Lowry, and I'm an Irish writer, dungeon master, creative director and all round media enthusiast. I'm currently undergoing a masters degree in comparative literature, focusing particularly on media studies, and am working on a few personal creative projects - such as my first novel, *New Gods of the Old Religion*!
 
 ![IMG_20240306_194722_365.jpg](/img/user/99%20%F0%9F%93%A6%20The%20Back%20Store/Images/IMG_20240306_194722_365.jpg)
+
 > Shot by @cortzphotography on Instagram.
 
 I currently don't actively use any socials, but will leave my Linktree, and any other relevant places to find me here!
+
 - - - - 
 ## ‼️Recent Posts and Updates
+
 - - - - 
 ## ❓More About the Lounge
+
 - - - - 
 # ☕Have a Good One, and Come Back Soon
