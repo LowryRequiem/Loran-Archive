@@ -26,7 +26,7 @@ PEAK stands out to me as part of a great phenomenon going on right now in the ga
 
 I truly cannot wait to see more games like these come out. I am in particular beyond excited for [Big Walk](https://store.steampowered.com/app/1478500/Big_Walk/) by House Panic - the Untitled Goose Game people. It seems to tap into these new shared, affectional, explorative mechanics in a major way, and I'm pumped to try it out when it drops.
 
-![Pasted image 20250711140203.png](/img/user/Pasted%20image%2020250711140203.png)
+![Pasted image 20250711140203.png](/img/user/99%20%F0%9F%93%A6%20The%20Back%20Store/Images/Pasted%20image%2020250711140203.png)
 
 In other news, I saw the new [F1 Film](https://www.imdb.com/title/tt16311594/) on Sunday - in 4DX no less, and honestly, it was a very solid film. I'm not a massive F1 viewer, but have watched from time to time and have friends much more into it than I am. That being said, it was very enjoyable, I think they did as good a job as one could in making a movie about a sport like F1. It definitely pushes the boundaries of realism, but I think does it in a way that does not overshadow the sport itself but makes use of many of its elements in I guess a more engaging way for a cinema experience. First time in 4DX too, and literally had to hold onto my seat during racing segments to not get thrown off. Water spray to simulate rain, or champagne spewing. Smoke cannons to simulate tires burning out. Fans to simulate wind amidst moments of high speed - It was an incredibly immersive experience, admittedly I feel in a way that worked exclusively for this kind of film. 
 
