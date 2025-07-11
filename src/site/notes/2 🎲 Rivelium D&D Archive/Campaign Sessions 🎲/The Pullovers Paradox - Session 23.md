@@ -5,7 +5,7 @@
 # 📝 Brief Session Overview
 ## Session Start | Bellbank's Stay Back Store
 
-- After crashing in the storehouse of the[[2 🎲 Rivelium D&D Archive/World and Lore 📜/Establishments/The Bellybank's Stay\| Bellbank's Stay]], the Pullovers awoke abruptly to B awakening to her Hex. After some experimenting, she discovered that her Hex allows her to possess and control mechanisms.
+- After crashing in the storehouse of the[[2 🎲 Rivelium D&D Archive/World and Lore 📜/Establishments & Places/The Bellybank's Stay\| Bellbank's Stay]], the Pullovers awoke abruptly to B awakening to her Hex. After some experimenting, she discovered that her Hex allows her to possess and control mechanisms.
 - The party awoke[[Busk Bellbank \| Busk]], and sent him to find[[Douglas Blum \| Douglas]] to mind Cartinho. He returned with both Douglas and[[Angela Harroway \| Angela]], and appeared to have briefly found a bromance between himself and Douglas. Through some drug related bartering, the Pullovers convinced them to hold up with Cartinho together in the storehouse.
 ## M's Tailors
 
@@ -16,4 +16,4 @@
 - Afterwards, the party began to make their way to the lower end of First Landing to try find a lift to ascend towards the High Strand, and the Velvet Deck.
 ### The Hanging Bodies of Helmer's Keep
 
-- On their way, they came across [[Helmer's Keep\|Helmer's Keep]], and discovered the array of Flammenvielen and Usurper Choir bodies strung up outside. As they moved by, they spotted a convoy of stolen goods, hunted beasts, and prisoners. One of which, was [[one of Lyra's raven sisters\|one of Lyra's raven sisters]] who she recognised.
+- On their way, they came across [[2 🎲 Rivelium D&D Archive/World and Lore 📜/Establishments & Places/Helmer's Keep\|Helmer's Keep]], and discovered the array of Flammenvielen and Usurper Choir bodies strung up outside. As they moved by, they spotted a convoy of stolen goods, hunted beasts, and prisoners. One of which, was [[one of Lyra's raven sisters\|one of Lyra's raven sisters]] who she recognised.

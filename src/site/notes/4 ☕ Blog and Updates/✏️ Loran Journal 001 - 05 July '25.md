@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-blog-and-updates/loran-journal-001-05-july-25/","created":"2025-07-05T07:45:41.711+02:00","updated":"2025-07-05T08:08:05.328+02:00"}
+{"dg-publish":true,"permalink":"/4-blog-and-updates/loran-journal-001-05-july-25/","created":"2025-07-05T07:45:41.711+02:00","updated":"2025-07-05T08:26:06.649+02:00"}
 ---
 
 

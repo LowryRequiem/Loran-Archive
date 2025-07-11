@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-07-05T08:16:13.981+02:00"}
+{"dg-publish":true,"permalink":"/0-the-lounge/welcome-to-loran-lounge/","tags":["gardenEntry"],"created":"2025-05-30T15:12:28.147+02:00","updated":"2025-07-05T08:16:22.016+02:00"}
 ---
 
 # 🥃 Welcome to the Lounge
@@ -25,6 +25,7 @@ Take your time, have a lamp, and come back at any time.
 	- My chronicled engagements, thoughts, and reflections on games, film, music, and other media.
 - [[0 🥃 The Lounge/🥃 Blogs, Updates and Side Quests\|🥃 Blogs, Updates and Side Quests]]
 	- Everything in-between. A general collection of my thoughts, ponderings, and endeavors.
+
 - - - - 
 ## 🎷Now Playing in the Lounge
 
