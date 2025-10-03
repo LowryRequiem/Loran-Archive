@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-4-little-kid-from-little-thorn/","created":"2025-10-03T14:48:59.995+02:00","updated":"2025-10-03T14:49:43.799+02:00"}
+{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-4-little-kid-from-little-thorn/","created":"2025-10-03T14:48:59.995+02:00","updated":"2025-10-03T15:21:22.539+02:00"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-7-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # 🍃 Attacked by the Marsh
 
@@ -27,15 +20,6 @@ Little introduces himself to the party, and explains that he comes from the Lick
 As the discuss, the party realize that they route they took into the marsh has become completely strewn with these mutated vines and trees, and decide that cutting through the Marsh Way would be an easier solution. 
 
 Following the lead of Little Licklittle, they hop into their new, sentient, spider-fungus cart hybrid and ride off through the waters towards Little Thorn.
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-8-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 
 # 🛶 Arriving at Little Thorn
@@ -79,6 +63,4 @@ The fight gradually slips away from them, as the men appear to have abilities fr
 After taking enough hits from the party, the men give up on the child, and instead try escape with what members of the party they can - knocking Xolo unconscious, taking Lorna off guard, and fleeing deeper into the marsh both underwater, and in the air between the trees.
 
 
-
-</div></div>
 

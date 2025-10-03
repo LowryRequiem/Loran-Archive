@@ -10,13 +10,6 @@
 
 
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-7-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
 # 🍃 Attacked by the Marsh
 
 As the party gets the news of the missing procession, they continue to attempt to loosen their cart from the mutated fungi and vines that have seized it. Eventually, they take to try burning the flora off, but anger the vines and spores which they realize too late are sentient, and are thrown into combat with the surrounding vines and trees which attempt to stab and restrain them.
@@ -35,15 +28,6 @@ Little introduces himself to the party, and explains that he comes from the Lick
 As the discuss, the party realize that they route they took into the marsh has become completely strewn with these mutated vines and trees, and decide that cutting through the Marsh Way would be an easier solution. 
 
 Following the lead of Little Licklittle, they hop into their new, sentient, spider-fungus cart hybrid and ride off through the waters towards Little Thorn.
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-8-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 
 # 🛶 Arriving at Little Thorn
@@ -88,8 +72,6 @@ After taking enough hits from the party, the men give up on the child, and inste
 
 
 
-</div></div>
-
 
 
 </div></div>
@@ -98,13 +80,6 @@ After taking enough hits from the party, the men give up on the child, and inste
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-5-the-scourge-of-the-grafters/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-9-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 
@@ -136,17 +111,6 @@ Even upon being presented with a grafter by the party, she uses her stick which 
 #### 🌿 Meeting at Melma's
 
 The party gather with Melma after their failed meeting, and realize that there is no getting through to Mama. Melma explains that herself and Myron had scoped out Grafter's Hollow, and that if they meet at Melma's place later, they can discuss a plan going forward. It's clear that while Melma was suspicious of the party at first, she now finds herself trusting them, and potentially needing them, to deal with this grafter problem.
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-10-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # 🌿Meeting at Melma's
 
@@ -185,15 +149,6 @@ Upon entering, Xolo, through Polita, spies that Sol is examining an unconscious 
 
 Sol argues with Richtor, self-proclaiming his morals and revealing that he is being kept their by Richtor forcibly to carry out this research. Richtor threatens to start killing captive children each night that Sol doesn't make an advancement, and leaves.
 
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-11-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # 🚬 Outside the Mound
 
@@ -216,7 +171,6 @@ Eventually, Myron flies in to provide support, fighting off some of the Grafters
 
 The party shake off the few Grafters who pursue them, and link back up with Davos and Cartinho who escort them back to Little Thorn safely. They are distraught at how overwhelming the Grafters are, and decide that if they have any hope to get Lorna, and now Myron back, they are going to have to bargain with the Clungwaters and the Albarettas, and negotiate some sort of peace between the marsh factions. 
 
-</div></div>
 
 
 </div></div>
@@ -226,13 +180,6 @@ The party shake off the few Grafters who pursue them, and link back up with Davo
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-6-the-marsh-way-peace-process/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-12-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 
@@ -286,17 +233,6 @@ This causes Mama to crack, as she starts to berate the party and the town about 
 The party are astounded, as is Melma and the rest of the clan, but before there is time to settle with what they have all just learned - Mama lashes out, and commands her sons to take down the party alongside her, as she whips the vines of the hall into motion, locking them all inside.
 
 
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-13-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
 # ⚔️ Battle at Licklittle Hall
 
 The session kicks off as Mama Licklittle traps the party and onlookers inside Licklittle Hall - instructing her sons and husband to deal with the party alongside her. 
@@ -314,7 +250,7 @@ She struggles to a final breath on her knees, but is eventually smited by Lyra, 
 
 The onlookers rejoice desperately, released from the fear that Mama had bestowed onto them, now fully realized as they watched her descent into madness unfold. The party stand tall after their victory, turning to confront the clan alongside Melma, who delivers a speech to finally unite the Licklittle clan, and inspire them to come together to liberate the Marsh Way and find peace once more. She is raised as new head of the clan, approved by her father Door, and the Licklittles delve into the night in preparation for the battle that is to come the following day.
 
-</div></div>
+
 
 
 </div></div>
@@ -324,13 +260,6 @@ The onlookers rejoice desperately, released from the fear that Mama had bestowed
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-7-the-liberation-of-the-marsh-way/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-14-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 
@@ -379,16 +308,6 @@ Joy and celebration breaks out, but not before attention is directed once again 
 There is an immense sense of relief in the air, as the Licklittles, Albarettas, and Clungwaters all find themselves united with the scourge of the Marsh Way, be it the Grafters, or Mama, now finally put to rest. They gather themselves, and their dead, and head back towards Licklittle Hall - where they prepare for a wedding, and a funeral.
 
 
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-15-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
 # 🔎 Sol's Explanation
 
 The session picks up in the aftermath of the battle, as the factions gather themselves and prepare for the day ahead. Here, Sol reunites with the party, who have many, many questions.
@@ -435,7 +354,6 @@ The party eventually leads out to the S.S. Dandelion, which has now returned to 
 
 The Marsh Way Convergence - Fin
 
-</div></div>
 
 
 </div></div>

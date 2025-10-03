@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/episode-3-hex-branded-ass-cracked/","created":"2025-10-03T14:20:29.154+02:00","updated":"2025-10-03T14:44:03.530+02:00"}
+{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/episode-3-hex-branded-ass-cracked/","created":"2025-10-03T14:20:29.154+02:00","updated":"2025-10-03T15:21:26.821+02:00"}
 ---
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-5-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # 🌩️ An Unusual Storm
 
@@ -34,15 +26,6 @@ During this time, Lyra approaches B after overhearing the conversation at The Bl
 ### 🌌 The Dawning of the Purple Rift
 
 As they are travelling, the storm above worsens, and suddenly, a sharp bolt of lighting shoots across the sky - ripping open an astronomically large purple rift above the procession, high into the sky. The valley is suddenly dimly lit in a lilac hue, and before they have a chance to process what this rift may be, a light flashes from Lorna as a mysterious sigil is suddenly branded onto the side of her torso where her arm used to be - a sigil that bears a strange resemblance to the one that Xolo and Ember observed in Kraetor's eye only a day earlier.
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-6-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 
 # ⚡ Beneath the Purple Rift
@@ -80,4 +63,3 @@ They set up for the night somewhat into the marsh, and take to sleep while Davos
 The next morning, the party wake up surrounded by spores and distorted flora and fungi that has entrapped the cart overnight. As they attempt to get the cart moving, Davos attempts to contact the rest of the procession conductors via sending stone, and cannot get into contact with anyone strangely. He eventually reaches someone, who exclaims that a large portion of the procession had gone missing at the militia checkpoint, that some of them were let through, but those who were stopped had wound up missing, with no sign of the militia left behind. 
 
 
-</div></div>

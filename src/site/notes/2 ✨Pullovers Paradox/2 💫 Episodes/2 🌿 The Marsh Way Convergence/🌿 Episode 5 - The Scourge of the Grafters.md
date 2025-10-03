@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-5-the-scourge-of-the-grafters/","created":"2025-10-03T14:53:10.517+02:00","updated":"2025-10-03T14:55:50.226+02:00"}
+{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-5-the-scourge-of-the-grafters/","created":"2025-10-03T14:53:10.517+02:00","updated":"2025-10-03T15:21:19.200+02:00"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-9-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # 🍃 The Marsh Way Chase
 
@@ -36,17 +29,6 @@ Even upon being presented with a grafter by the party, she uses her stick which 
 #### 🌿 Meeting at Melma's
 
 The party gather with Melma after their failed meeting, and realize that there is no getting through to Mama. Melma explains that herself and Myron had scoped out Grafter's Hollow, and that if they meet at Melma's place later, they can discuss a plan going forward. It's clear that while Melma was suspicious of the party at first, she now finds herself trusting them, and potentially needing them, to deal with this grafter problem.
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-10-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # 🌿Meeting at Melma's
 
@@ -85,15 +67,6 @@ Upon entering, Xolo, through Polita, spies that Sol is examining an unconscious 
 
 Sol argues with Richtor, self-proclaiming his morals and revealing that he is being kept their by Richtor forcibly to carry out this research. Richtor threatens to start killing captive children each night that Sol doesn't make an advancement, and leaves.
 
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-11-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # 🚬 Outside the Mound
 
@@ -116,4 +89,3 @@ Eventually, Myron flies in to provide support, fighting off some of the Grafters
 
 The party shake off the few Grafters who pursue them, and link back up with Davos and Cartinho who escort them back to Little Thorn safely. They are distraught at how overwhelming the Grafters are, and decide that if they have any hope to get Lorna, and now Myron back, they are going to have to bargain with the Clungwaters and the Albarettas, and negotiate some sort of peace between the marsh factions. 
 
-</div></div>

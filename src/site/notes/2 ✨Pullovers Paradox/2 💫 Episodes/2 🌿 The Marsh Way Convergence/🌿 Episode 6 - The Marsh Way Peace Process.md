@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-6-the-marsh-way-peace-process/","created":"2025-10-03T14:58:23.180+02:00","updated":"2025-10-03T14:58:50.015+02:00"}
+{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-6-the-marsh-way-peace-process/","created":"2025-10-03T14:58:23.180+02:00","updated":"2025-10-03T15:21:16.974+02:00"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-12-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # 🌿Regroup at Melma's
 
@@ -58,17 +51,6 @@ This causes Mama to crack, as she starts to berate the party and the town about 
 The party are astounded, as is Melma and the rest of the clan, but before there is time to settle with what they have all just learned - Mama lashes out, and commands her sons to take down the party alongside her, as she whips the vines of the hall into motion, locking them all inside.
 
 
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-13-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
 # ⚔️ Battle at Licklittle Hall
 
 The session kicks off as Mama Licklittle traps the party and onlookers inside Licklittle Hall - instructing her sons and husband to deal with the party alongside her. 
@@ -86,4 +68,4 @@ She struggles to a final breath on her knees, but is eventually smited by Lyra, 
 
 The onlookers rejoice desperately, released from the fear that Mama had bestowed onto them, now fully realized as they watched her descent into madness unfold. The party stand tall after their victory, turning to confront the clan alongside Melma, who delivers a speech to finally unite the Licklittle clan, and inspire them to come together to liberate the Marsh Way and find peace once more. She is raised as new head of the clan, approved by her father Door, and the Licklittles delve into the night in preparation for the battle that is to come the following day.
 
-</div></div>
+

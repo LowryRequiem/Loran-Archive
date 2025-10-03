@@ -9,16 +9,9 @@
 
 
 
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-1-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 # 🏘️ Calvantrus
 
-Our story begins in [[Calvantrus\|Calvantrus]], a small, community-led town that sits on the main road headed towards the capital city of [[Ashrun Valley\|Ashrun Valley]] - [[99 📦 The Back Store/TO BE SORTED/Flammenvielen\|Flammenvielen]]. The place is currently as busy as it has ever been, as after the event now known as the Fall of Flammenvielen has led to a mass exodus of it's citizens, Calvantrus is now seeing an immense boom of business as the people fleeing Flammenvielen pass through.
+Our story begins in [[Calvantrus\|Calvantrus]], a small, community-led town that sits on the main road headed towards the capital city of [[99 📦 The Back Store/Ashrun Valley\|Ashrun Valley]] - [[99 📦 The Back Store/TO BE SORTED/Flammenvielen\|Flammenvielen]]. The place is currently as busy as it has ever been, as after the event now known as the Fall of Flammenvielen has led to a mass exodus of it's citizens, Calvantrus is now seeing an immense boom of business as the people fleeing Flammenvielen pass through.
 ### 🐴 Cart Registration
 
 Amidst the town of Calvantrus, many business owners and couriers have taken to offering rides to those passing by, creating mass cart processions that are delivering people to nearby towns and crossings to make some gold, and assist in their exodus.
@@ -43,15 +36,6 @@ Here, they uncover that the carts are transporting a significant amount of gold 
 The prisoners appear to be elven, clad in the silver and navy colours of the [[Usurper Choir\|Usurper Choir]] - the elven faction responsible for the siege and hostile takeover that took place during the Fall of Flammenvielen. Moreover, the device appears to be some sort of brass cube with [[Everflame\|Everflame]], Flammenvielen's enigmatic power source, channelled and stored inside it. Ember recognises this as an Everflame core, a device used to power some of Flammenvielen's hulking automaton wardens, and the party begin to question why this wandering militia are transporting it.
 
 Before they can investigate further, they are found out, but quickly apprehend the witness using their abilities, and flee the scene without causing any major upheaval. They retreat to their room at the inn, and debate how much further they should take their investigations. 
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-2-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 # 🌄 Morning at The Passer's Buy
 
@@ -80,23 +64,11 @@ The session ends as the party find themselves converging on the carts in broad d
 
 
 
-
-</div></div>
-
-
 </div></div>
 
 # [[2 ✨Pullovers Paradox/2 💫 Episodes/1 💫 The Calvantrus Convergence/💫 Episode 2 - Echoes of Core and Choir\|💫 Episode 2 - Echoes of Core and Choir]]
 # 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/episode-2-echoes-of-core-and-choir/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-3-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 
@@ -136,17 +108,6 @@ Not before long, there is a desperate knock at their window, and Lyra opens it t
 
 Dazed and overwhelmed, she settles in for the night with the party at the inn who take care of her for the time being, and keep a nervous watch out for Kraetor, and any other Flammenvielen personnel who might arrive to finish the job. 
 
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-4-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
 # 🌄 Morning at The Passer's Buy
 
 The party awake and gather after the intensity of the previous night, and plan what is to be their last day in Calvantrus. They console the crippled Usurper Choir elf, Lorna, and allow her to stay in their room while she heals.
@@ -176,7 +137,7 @@ Furthermore, they discuss the Fall of Flammenvielen, and learn from Bronwyn rumo
 
 The party eventually bid Bronwyn farewell and return to the inn for their final night of stay, reconvening with the injured Lorna, and settling in before their departure from town the following day.
 
-</div></div>
+
 
 
 </div></div>
@@ -184,14 +145,6 @@ The party eventually bid Bronwyn farewell and return to the inn for their final 
 # [[2 ✨Pullovers Paradox/2 💫 Episodes/1 💫 The Calvantrus Convergence/💫 Episode 3 - Hex-Branded, Ass-Cracked\|💫 Episode 3 - Hex-Branded, Ass-Cracked]]
 # 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/episode-3-hex-branded-ass-cracked/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-5-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 
@@ -220,15 +173,6 @@ During this time, Lyra approaches B after overhearing the conversation at The Bl
 ### 🌌 The Dawning of the Purple Rift
 
 As they are travelling, the storm above worsens, and suddenly, a sharp bolt of lighting shoots across the sky - ripping open an astronomically large purple rift above the procession, high into the sky. The valley is suddenly dimly lit in a lilac hue, and before they have a chance to process what this rift may be, a light flashes from Lorna as a mysterious sigil is suddenly branded onto the side of her torso where her arm used to be - a sigil that bears a strange resemblance to the one that Xolo and Ember observed in Kraetor's eye only a day earlier.
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-6-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 
 # ⚡ Beneath the Purple Rift
@@ -266,7 +210,6 @@ They set up for the night somewhat into the marsh, and take to sleep while Davos
 The next morning, the party wake up surrounded by spores and distorted flora and fungi that has entrapped the cart overnight. As they attempt to get the cart moving, Davos attempts to contact the rest of the procession conductors via sending stone, and cannot get into contact with anyone strangely. He eventually reaches someone, who exclaims that a large portion of the procession had gone missing at the militia checkpoint, that some of them were let through, but those who were stopped had wound up missing, with no sign of the militia left behind. 
 
 
-</div></div>
 
 
 </div></div>

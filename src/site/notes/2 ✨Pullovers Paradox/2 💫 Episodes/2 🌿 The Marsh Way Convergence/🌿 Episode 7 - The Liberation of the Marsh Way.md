@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-7-the-liberation-of-the-marsh-way/","created":"2025-10-03T15:00:57.511+02:00","updated":"2025-10-03T15:01:26.989+02:00"}
+{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/episode-7-the-liberation-of-the-marsh-way/","created":"2025-10-03T15:00:57.511+02:00","updated":"2025-10-03T15:21:14.252+02:00"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-14-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # 🔨Preparations at Little Thorn
 
@@ -51,16 +44,6 @@ Amidst the crater where the tree once stood, Melma turns to Myron and gets down 
 Joy and celebration breaks out, but not before attention is directed once again to Tarkus, the hulking frog that still looms above them all. Tensions rise for a moment, until he announces that he is finally full, as Tarkus explodes, causing hundreds of baby Clungwater toadlings to rain from the sky, revealing to all that his intent to consume was to birth forth a new generation of Clungwater spawn into the Marsh Way.
 
 There is an immense sense of relief in the air, as the Licklittles, Albarettas, and Clungwaters all find themselves united with the scourge of the Marsh Way, be it the Grafters, or Mama, now finally put to rest. They gather themselves, and their dead, and head back towards Licklittle Hall - where they prepare for a wedding, and a funeral.
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/2-the-marsh-way-convergence/sessions/session-15-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 
 # 🔎 Sol's Explanation
@@ -109,4 +92,3 @@ The party eventually leads out to the S.S. Dandelion, which has now returned to 
 
 The Marsh Way Convergence - Fin
 
-</div></div>

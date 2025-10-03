@@ -1,17 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/episode-1-the-carts-of-calvantrus/","created":"2025-10-02T00:40:37.058+02:00","updated":"2025-10-03T14:41:06.138+02:00"}
+{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/episode-1-the-carts-of-calvantrus/","created":"2025-10-02T00:40:37.058+02:00","updated":"2025-10-03T15:18:05.847+02:00"}
 ---
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-1-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 # 🏘️ Calvantrus
 
-Our story begins in [[Calvantrus\|Calvantrus]], a small, community-led town that sits on the main road headed towards the capital city of [[Ashrun Valley\|Ashrun Valley]] - [[99 📦 The Back Store/TO BE SORTED/Flammenvielen\|Flammenvielen]]. The place is currently as busy as it has ever been, as after the event now known as the Fall of Flammenvielen has led to a mass exodus of it's citizens, Calvantrus is now seeing an immense boom of business as the people fleeing Flammenvielen pass through.
+Our story begins in [[Calvantrus\|Calvantrus]], a small, community-led town that sits on the main road headed towards the capital city of [[99 📦 The Back Store/Ashrun Valley\|Ashrun Valley]] - [[99 📦 The Back Store/TO BE SORTED/Flammenvielen\|Flammenvielen]]. The place is currently as busy as it has ever been, as after the event now known as the Fall of Flammenvielen has led to a mass exodus of it's citizens, Calvantrus is now seeing an immense boom of business as the people fleeing Flammenvielen pass through.
 ### 🐴 Cart Registration
 
 Amidst the town of Calvantrus, many business owners and couriers have taken to offering rides to those passing by, creating mass cart processions that are delivering people to nearby towns and crossings to make some gold, and assist in their exodus.
@@ -36,15 +29,6 @@ Here, they uncover that the carts are transporting a significant amount of gold 
 The prisoners appear to be elven, clad in the silver and navy colours of the [[Usurper Choir\|Usurper Choir]] - the elven faction responsible for the siege and hostile takeover that took place during the Fall of Flammenvielen. Moreover, the device appears to be some sort of brass cube with [[Everflame\|Everflame]], Flammenvielen's enigmatic power source, channelled and stored inside it. Ember recognises this as an Everflame core, a device used to power some of Flammenvielen's hulking automaton wardens, and the party begin to question why this wandering militia are transporting it.
 
 Before they can investigate further, they are found out, but quickly apprehend the witness using their abilities, and flee the scene without causing any major upheaval. They retreat to their room at the inn, and debate how much further they should take their investigations. 
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-2-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 # 🌄 Morning at The Passer's Buy
 
@@ -71,7 +55,3 @@ The prisoners look up in shock, faced by Xolo who has suddenly appeared before t
 The session ends as the party find themselves converging on the carts in broad daylight, in an attempt to seize their contents and slip away without being caught.
 
 
-
-
-
-</div></div>

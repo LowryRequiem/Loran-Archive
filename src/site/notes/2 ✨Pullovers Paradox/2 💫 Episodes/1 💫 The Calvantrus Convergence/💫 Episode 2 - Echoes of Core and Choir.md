@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/episode-2-echoes-of-core-and-choir/","created":"2025-10-03T14:14:16.248+02:00","updated":"2025-10-03T14:41:26.643+02:00"}
+{"dg-publish":true,"permalink":"/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/episode-2-echoes-of-core-and-choir/","created":"2025-10-03T14:14:16.248+02:00","updated":"2025-10-03T15:21:28.638+02:00"}
 ---
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-3-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 
 # ‼️ Escaping the Convoys
 
@@ -45,17 +37,6 @@ Not before long, there is a desperate knock at their window, and Lyra opens it t
 
 Dazed and overwhelmed, she settles in for the night with the party at the inn who take care of her for the time being, and keep a nervous watch out for Kraetor, and any other Flammenvielen personnel who might arrive to finish the job. 
 
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-pullovers-paradox/2-episodes/1-the-calvantrus-convergence/sessions/session-4-the-pullovers-paradox/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
 # 🌄 Morning at The Passer's Buy
 
 The party awake and gather after the intensity of the previous night, and plan what is to be their last day in Calvantrus. They console the crippled Usurper Choir elf, Lorna, and allow her to stay in their room while she heals.
@@ -85,4 +66,4 @@ Furthermore, they discuss the Fall of Flammenvielen, and learn from Bronwyn rumo
 
 The party eventually bid Bronwyn farewell and return to the inn for their final night of stay, reconvening with the injured Lorna, and settling in before their departure from town the following day.
 
-</div></div>
+
